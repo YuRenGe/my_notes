@@ -7,9 +7,9 @@ https://github.com/Gourieff/Assets/tree/main/Insightface
 
 ### 2、安装insightface
 2.1 将下载好的insightface安装文件”insightface-xxx-xxx-xxx-win_amd64.whl“随便放在一个目录下，我这里直接放到了ComfyUI的Python虚拟环境文件夹下
-![[../../images/Pasted image 20250715113945.png]]
+![](https://github.com/YuRenGe/my_notes/blob/main/images/Pasted%20image%2020250715113945.png)
 2.2 windows + R打开“运行”，输入cmd回车进入命令行界面
-![[../../images/Pasted image 20250715114430.png]]
+![](https://github.com/YuRenGe/my_notes/blob/main/images/Pasted%20image%2020250715114430.png)
 cd跳转到虚拟环境的Scripts目录下，之后运行即可安装
 ```
 python -m pip install insightface-xxx-xxx-xxx-win_amd64.whl
